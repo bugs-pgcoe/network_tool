@@ -1,0 +1,17 @@
+{
+  "station-switch-1": {
+    "type": "switch"
+  },
+  "station-switch-2": {
+    "type": "switch"
+  },
+  "device-1": {
+    "type": "device"
+  },
+  "device-2": {
+    "type": "device"
+  },
+  "device-3": {
+    "type": "device"
+  }
+}

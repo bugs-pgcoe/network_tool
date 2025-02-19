@@ -1,0 +1,146 @@
+{
+  "device": [
+    {
+      "rect": {
+        "id": "device-bounding-box",
+        "x": "0",
+        "y": "0",
+        "width": "120",
+        "height": "120",
+        "style": "fill:none;stroke:none;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "device-body",
+        "x": "0",
+        "y": "0",
+        "width": "100",
+        "height": "100",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-1",
+        "x": "100",
+        "y": "10",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-2",
+        "x": "100",
+        "y": "30",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-3",
+        "x": "100",
+        "y": "50",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-4",
+        "x": "100",
+        "y": "70",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    }
+  ],
+  "switch": [
+    {
+      "rect": {
+        "id": "device-bounding-box",
+        "x": "0",
+        "y": "0",
+        "width": "220",
+        "height": "60",
+        "style": "fill:none;stroke:none;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "device-body",
+        "x": "10",
+        "y": "10",
+        "width": "200",
+        "height": "40",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-1",
+        "x": "90",
+        "y": "50",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-2",
+        "x": "110",
+        "y": "50",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-3",
+        "x": "130",
+        "y": "50",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-4",
+        "x": "150",
+        "y": "50",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-19",
+        "x": "0",
+        "y": "25",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    },
+    {
+      "rect": {
+        "id": "port-20",
+        "x": "210",
+        "y": "25",
+        "width": "10",
+        "height": "10",
+        "style": "fill:none;stroke:black;stroke-width:2;"
+      }
+    }
+  ]
+}
