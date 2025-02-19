@@ -1,17 +1,26 @@
 {
   "station-switch-1": {
-    "type": "switch"
+    "type": "switch_station"
   },
   "station-switch-2": {
-    "type": "switch"
+    "type": "switch_process"
   },
   "device-1": {
-    "type": "device"
+    "type": "device_bcu"
   },
   "device-2": {
-    "type": "device"
+    "type": "device_prot1"
   },
   "device-3": {
-    "type": "device"
+    "type": "device_prot2"
+  },
+    "device-4": {
+    "type": "device_bcu"
+  },
+  "device-5": {
+    "type": "device_prot1"
+  },
+  "device-6": {
+    "type": "device_prot2"
   }
 }

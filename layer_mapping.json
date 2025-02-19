@@ -1,8 +1,16 @@
 {
-  "switch": {
+  "switch_station": {
     "y": "5"
+  },  "switch_process": {
+    "y": "440"
   },
-  "device": {
+  "device_bcu": {
     "y": "110"
+  },
+    "device_prot1": {
+    "y": "220"
+  },
+      "device_prot2": {
+    "y": "330"
   }
 }
